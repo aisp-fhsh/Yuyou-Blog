@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: " Yuyou Blog "
-  text: " GitHub: zyyuyou "
-  tagline: My great project tagline
+  text: " ❕❕❕ "
+  tagline: 'GitHub: zyyuyou'
   actions:
     - theme: brand
       text: Markdown Examples
