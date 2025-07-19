@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: " Yuyou Blog "
-  text: " ❕❕❕ "
+  text: " ❕❕❕❕❕"
   tagline: 'GitHub: zyyuyou'
   actions:
     - theme: brand
