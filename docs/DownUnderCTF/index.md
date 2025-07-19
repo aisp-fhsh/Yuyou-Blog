@@ -17,6 +17,10 @@
 
 ## MISC
 
+## OSINT 
+- [fat donke diss](https://aisp-fhsh.github.io/Yuyou-Blog/DownUnderCTF/kick-the-bucket)
+
+
 
 
 
