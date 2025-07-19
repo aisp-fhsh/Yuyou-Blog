@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
+  name: " Yuyou Blog "
+  text: " GitHub: zyyuyou "
   tagline: My great project tagline
   actions:
     - theme: brand
