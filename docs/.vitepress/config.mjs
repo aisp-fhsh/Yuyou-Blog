@@ -10,7 +10,8 @@ export default defineConfig({
     nav: [
       { text: '首頁', link: '/' },
       { text: '專案網誌', link: '/first-post' },
-      { text: '範例', link: '/markdown-examples' }
+      { text: '範例', link: '/markdown-examples' },
+      { text: 'DownUnderCTF WriteUp', link: 'DownUnderCTF.md' }
 
     ],
 
