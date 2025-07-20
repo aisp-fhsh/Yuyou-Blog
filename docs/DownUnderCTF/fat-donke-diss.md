@@ -23,4 +23,4 @@
 
 ![](image/fat-donke-diss3.png)
 
-然後就得到了Flag : `DUCTF{E-d0g_th4nks_th3_sp0ns0rs_4_th3ir_supp0rt!}`
+然後就得到了Flag : `DUCTF{I_HAVE_THOUGHT_UP_OF_A_FLAG_YET}`

@@ -1,7 +1,7 @@
 # DownUnderCTF - 2025
 ###### Contributed by @zyyuyou
 
-## discord / Web
+## discord / beginner
 
 > [!NOTE]
 > 
