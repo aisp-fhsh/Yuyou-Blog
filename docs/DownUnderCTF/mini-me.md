@@ -24,11 +24,11 @@
 
 ![](image/mini-me3.png)
 
-接下來我就打算先去分析他給我的 .zip 檔案中會不會有什麼取得 Flag 的關鍵因素。結果就發險了其中的程式碼有一個是可以獲取 Flag 的。
+接下來我就打算先去分析他給我的 .zip 檔案中會不會有什麼取得 Flag 的關鍵因素。結果其中就發現了他網站後端的 app.py 
 
 ![](image/mini-me4.png)
 
-結果其中就發現了他網站後端的 app.py ，結果就在他程式碼最下面發現了 Flag 的獲取方式。他限制了 HTTP Method 只能用 POST 。 
+仔細觀察後，發現其中的程式碼有一個是可以獲取 Flag 的。結果就在他程式碼最下面發現了 Flag 的獲取方式。他限制了 HTTP Method 只能用 POST 。 
 並且 HTTP header 欄位中， key 欄位也要等於 API_SECRET_KEY 。才會回傳 Flag。
 
 ![](image/mini-me5.png)
