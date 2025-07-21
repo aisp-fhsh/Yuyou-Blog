@@ -10,8 +10,8 @@ export default defineConfig({
     nav: [
       { text: '首頁', link: '/' },
       { text: '專案網誌', link: '/first-post' },
-      { text: 'DownUnderCTF-WriteUp', link: 'DownUnderCTF' }
-
+      { text: 'DownUnderCTF-WriteUp', link: 'DownUnderCTF' },
+      { text: 'TQC-python', link: 'TQC-python' },
     ],
 
     sidebar: [
