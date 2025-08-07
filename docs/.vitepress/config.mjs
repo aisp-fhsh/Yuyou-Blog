@@ -22,7 +22,7 @@ export default defineConfig({
           { text: 'Python NOTE', link: '/TQC-python' }
         ]
       }
-    ],
+    ], 
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zyyuyou' }
