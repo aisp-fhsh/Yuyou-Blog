@@ -10,16 +10,16 @@ export default defineConfig({
     nav: [
       { text: '首頁', link: '/' },
       { text: '專案網誌', link: '/first-post' },
-      { text: 'DownUnderCTF-WriteUp', link: 'DownUnderCTF' },
-      { text: 'TQC-python', link: 'TQC-python' },
+      { text: 'CTF WriteUp', link: 'CTF-WriteUp' },
+      { text: '程式筆記', link: 'TQC-python' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '側邊欄',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'CTF WriteUp', link: '/CTF-WriteUp' },
+          { text: 'Python NOTE', link: '/TQC-python' }
         ]
       }
     ],
